@@ -28,3 +28,10 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+```
+**bold text**
+*italic text*
+```
+**bold textt**
+*italic text*
