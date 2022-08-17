@@ -8,3 +8,6 @@
 ```javascript
 	let q = 3;
 ```
+```javascript
+	let w = 4;
+```
