@@ -9,10 +9,10 @@
 	}
 }
 ```
-```
+```markdown
 	![alt text](image.jpg)
 ```
-```
+```markdown
 	| Syntax | Description |
 	| ----------- | ----------- |
 	| Header | Title |
