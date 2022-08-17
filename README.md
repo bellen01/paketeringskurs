@@ -18,3 +18,6 @@
 ```javascript
 	let b = 6;
 ```
+```javascript
+	let c = 7;
+```
