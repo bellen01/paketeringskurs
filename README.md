@@ -11,3 +11,6 @@
 ```javascript
 	let w = 4;
 ```
+```javascript
+	let a = 5;
+```
