@@ -12,9 +12,9 @@
 ```Markdown
 	![alt text](image.jpg)
 ```
-```Markdown
-	| Syntax | Description |
-	| ----------- | ----------- |
-	| Header | Title |
-	| Paragraph | Text |
+```
+| Help File | Markdown |
+| --- | ----------- |
+| Bash | Vim |
+| CTRL+C | CTRL+V |
 ```
