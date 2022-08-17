@@ -21,3 +21,6 @@
 ```javascript
 	let c = 7;
 ```
+```javascript
+	let d = 8;
+```
