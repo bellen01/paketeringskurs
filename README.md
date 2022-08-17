@@ -33,5 +33,10 @@
 **bold text**
 *italic text*
 ```
-**bold textt**
+**bold text**  
 *italic text*
+
+```
+:joy:
+```
+That is so funny :joy:
