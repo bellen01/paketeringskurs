@@ -12,3 +12,9 @@
 ```
 	![alt text](image.jpg)
 ```
+```
+	| Syntax | Description |
+	| ----------- | ----------- |
+	| Header | Title |
+	| Paragraph | Text |
+```
