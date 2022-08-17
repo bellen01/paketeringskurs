@@ -1,4 +1,5 @@
 # paketeringskurs
+
 ```javascript
 	let x = 1;
 ```
@@ -13,4 +14,7 @@
 ```
 ```javascript
 	let a = 5;
+```
+```javascript
+	let b = 6;
 ```
