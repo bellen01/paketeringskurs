@@ -9,12 +9,11 @@
 	}
 }
 ```
-```Markdown
-	![alt text](image.jpg)
-```
-```
+![alt text](image.jpg)
+
+[Github](http://www.github.com)
+
 | Help File | Markdown |
 | --- | ----------- |
 | Bash | Vim |
 | CTRL+C | CTRL+V |
-```
