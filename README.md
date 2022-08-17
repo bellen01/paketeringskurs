@@ -68,3 +68,7 @@
 >This is a blockquote
 ```
 >This is a blockquote
+```
+==this is highlighted words==
+```
+==this is highlighted words==
