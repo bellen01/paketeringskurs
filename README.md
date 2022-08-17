@@ -71,7 +71,7 @@
 ```
 This is ==highlighted words==
 ```
-This is ==`highlighted words`==
+This is `highlighted words`
 ```
 This is <mark>highlighted words</mark>
 ```
