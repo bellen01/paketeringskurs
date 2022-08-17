@@ -44,3 +44,33 @@
 ***/---/___
 ```
 ***
+```
+1. Första
+2. andra
+3. tredje
+4. fjärde
+
+1. första
+3. andra
+5. tredje
+	1. indenterad
+	2. indenterad
+7. fjärde
+
+-/*/+ first
+```
+1. första
+2. andra
+3. tredje
+4. fjärde  
+  
+1. första
+3. andra
+5. tredje
+	1. indenterad
+	2. indenterad
+7. fjärde  
+  
+- first item
+- second item
+- third item
